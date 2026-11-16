@@ -1,198 +1,176 @@
+ 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Harshit+Arya;Java+Backend+Developer;Full+Stack+Developer;Spring+Boot+Developer;AI+%26+Scalable+Systems+Explorer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Harshit+Arya;Java+Backend+Developer;AI+%26+RAG+Developer;Full+Stack+Developer;Building+Scalable+AI+Applications"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Harshit Arya</h1>
+
+<p align="center">
+  <b>Java Backend Developer | AI Engineer | Full Stack Developer | Freelancer</b>
+</p>
+
+<p align="center">
+  🚀 Building scalable backend systems, AI-powered applications and intelligent RAG solutions.
+</p>
+
+<p align="center">
+  🌐 <a href="https://harshitarya.me">Portfolio</a> •
+  💼 <a href="https://linkedin.com/in/harshitarya7">LinkedIn</a> •
+  📧 harshitsingh0257@gmail.com
 </p>
 
 ---
 
-# 👋 Hi, I'm Harshit Arya
+## 🚀 About Me
 
-🚀 **Java Backend Developer | Full Stack Developer | AI Enthusiast | Freelancer**
+I'm a Computer Science Engineering undergraduate at **Chandigarh University**, graduating in 2027.
 
-I’m a Computer Science undergraduate at **Chandigarh University** passionate about building scalable **backend systems, distributed applications, and AI-powered platforms**. I enjoy solving complex engineering problems and developing production-ready applications using modern backend technologies and cloud infrastructure.
+I'm passionate about Java backend development, Artificial Intelligence, Machine Learning and building scalable software applications.
 
-🌐 **Portfolio:** https://harshitarya.me  
-📧 **Email:** harshitsingh0257@gmail.com  
-
----
-
-# 🚀 About Me
-
-- 🔭 Currently building scalable **backend & AI-powered applications**
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 🤖 Exploring **Agentic AI, Distributed Systems & Machine Learning**
-- 💼 Working as a **Freelance Developer**
-- 🧠 Focused on **Java Backend Development & Scalable Systems**
-- 👯 Open to collaborating on **Open Source & Hackathons**
-- 💬 Ask me about **Spring Boot, MERN Stack, REST APIs, System Design**
+- 🔭 Building AI-powered applications and scalable backend systems.
+- 🤖 Exploring Generative AI, RAG, LLMs and Agentic AI.
+- 🧠 Learning Machine Learning, Deep Learning and PyTorch.
+- ☕ Focused on Java, Spring Boot and backend engineering.
+- 📚 Solved **600+ DSA problems** on LeetCode.
+- 💼 Working as a Freelance Developer.
+- 👯 Open to Open Source contributions and Hackathons.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python)
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
+### 🤖 AI, Machine Learning & Generative AI
 
-## Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0A9396?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-3776AB?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge)
 
-## Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+**AI Concepts:** Embeddings, Vector Search, Document Processing, Data Chunking, Semantic Search, Retrieval-Augmented Generation, Relevance Filtering, LLM Integration.
+
+### ⚙️ Backend Development
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### 🎨 Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github)
+### ☁️ Cloud & DevOps
 
----
-
-# 🎯 Current Focus
-
-Data Structures & Algorithms • Java Backend Development • Distributed Systems • Machine Learning • Agentic AI
-
----
-
-# ⭐ Featured Projects
-
-## 🏥 MediCompare – Healthcare Price Transparency Platform
-
-Scalable healthcare comparison platform enabling users to compare treatment costs across hospitals with real-time booking and secure payments.
-
-### Tech Stack
-`Spring Boot` `React.js` `PostgreSQL` `Redis` `AWS` `Razorpay`
-
-### Features
-- Built scalable REST APIs handling **10,000+ requests**
-- Implemented geolocation-based hospital search
-- Integrated secure payment workflows
-- Optimized backend performance using Redis caching
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚌 GoBusly – Scalable Bus Booking Platform
+## ⭐ Featured Projects
 
-Distributed bus booking platform designed for concurrency-safe bookings and scalable backend architecture.
+### 1. 📄 DocQuery – Document Question-Answering API
 
-### Tech Stack
-`Java` `Spring Boot` `MongoDB` `Redis` `React.js` `Docker` `AWS`
+**Python | FastAPI | LangChain | ChromaDB | Sentence Transformers | OpenAI | Anthropic | Docker**
 
-### Features
-- Implemented Redis-based distributed locking
-- Built JWT & RBAC secure authentication
-- Deployed containerized applications using Docker
-- Designed scalable backend workflows
+An AI-powered document question-answering system that allows users to upload documents and retrieve context-aware answers using Retrieval-Augmented Generation (RAG).
 
----
-
-## 🤖 BudgetAI – AI Personal Finance Platform
-
-AI-powered finance assistant that analyzes spending patterns and generates personalized budgeting insights.
-
-### Tech Stack
-`Next.js` `Firebase` `Gemini API` `Node.js`
+**Key Features:**
+- Built document ingestion supporting PDF, TXT and Markdown files.
+- Implemented document chunking, embedding generation and persistent vector storage using ChromaDB.
+- Developed top-k similarity retrieval with cosine-similarity relevance filtering.
+- Integrated local all-MiniLM-L6-v2 embeddings with configurable OpenAI and Anthropic LLM providers.
+- Added an offline extractive fallback when API credentials are unavailable.
+- Developed FastAPI health and query endpoints with automated query testing.
+- Achieved approximately 50–150 ms subsequent query latency in local testing.
 
 ---
 
-## 🧑‍💻 Real-Time Code Editor
+### 2. 🤖 Enterprise Knowledge Assistant – RAG-Based Internal Knowledge Chatbot
 
-Collaborative coding platform where multiple users can write and edit code together in real time.
+**Python | FastAPI | ChromaDB | Gemini API | SQLite | WebSocket | ONNX MiniLM**
 
-### Tech Stack
-`React.js` `Node.js` `Socket.io`
+An intelligent enterprise knowledge assistant that helps employees retrieve accurate information from internal HR, IT and company policy documents using specialized knowledge agents.
+
+**Key Features:**
+- Implemented a RAG-based chatbot for enterprise document question answering.
+- Developed document ingestion for PDF, DOCX, TXT and Markdown files.
+- Implemented 512-token document chunking with 64-token overlap.
+- Generated 384-dimensional embeddings using ONNX MiniLM-L6-v2.
+- Used separate ChromaDB collections for HR, IT and policy knowledge.
+- Integrated Gemini for context-grounded answer generation.
+- Developed FastAPI endpoints and real-time WebSocket chat functionality.
+- Implemented SQLite-backed chat sessions, CSRF tokens and employee/admin role-based access control.
 
 ---
 
-## 🌐 3D Interactive Portfolio
+### 3. 🚌 GoBusly – Bus Booking and Payment Platform
 
-Modern 3D developer portfolio with smooth animations and optimized rendering.
+**Java | Spring Boot | MongoDB | Redis | Razorpay | Docker | AWS**
 
-### Tech Stack
-`Next.js` `React` `Three.js` `Tailwind CSS`
+A scalable bus booking platform designed to provide secure reservations, payment processing and reliable seat management.
+
+**Key Features:**
+- Developed bus booking workflows and backend REST APIs using Java and Spring Boot.
+- Integrated Razorpay payment APIs for secure payment processing.
+- Implemented JWT authentication and role-based access control.
+- Built Redis-based seat locking with TTL to reduce conflicting reservations.
+- Containerized the backend using Docker.
+- Deployed the application backend on AWS EC2.
+
+---
+
+### 🌐 3D Interactive Developer Portfolio
+
+**Next.js | React | Three.js | Tailwind CSS**
+
+An interactive developer portfolio showcasing projects, technical skills and development experience.
 
 🌐 Live: https://harshitarya.me
 
 ---
 
-# 📊 GitHub Stats
+## 🎯 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=Harshit-Arya-07&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Harshit-Arya-07&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-Arya-07&layout=compact&theme=tokyonight)
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="snake animation"/>
-</div>
+- Advanced Data Structures & Algorithms
+- Java Backend Development and Spring Boot
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning and Deep Learning
+- PyTorch and Neural Networks
+- Agentic AI and LLM Applications
+- Distributed Systems and System Design
 
 ---
 
-# 💡 Developer Quote
+## 📊 GitHub Statistics
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-> — Harold Abelson
-
----
-
-# 🧠 Coding Philosophy
-
-- Write clean and maintainable code
-- Build scalable backend systems
-- Focus on performance optimization
-- Continuously improve through DSA
-- Follow production-grade engineering practices
-
----
-
-# 🏆 Achievements
-
-- Solved **400+ DSA problems** on LeetCode
-- **4⭐ on CodeChef**
-- College Winner — **Smart India Hackathon (SIH) 2025**
-- Built multiple AI and Full Stack applications
-- Participated in multiple 24–48 hour hackathons
-
----
-
-# 📜 Certifications
-
-- NPTEL Cloud Computing (Elite) — IIT Kharagpur
-- Oracle Cloud Infrastructure 2025 — AI Foundations Associate
-
----
-
-# 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitarya7)
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harshit_07_x)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@harshitarya1919)
-
----
-
-# 👀 Profile Visitors
-
-![](https://visitcount.itsvg.in/api?id=Harshit-Arya-07&icon=0&color=0)
-
----
-
-⭐ If you like my projects, consider giving them a star!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshit-Arya
